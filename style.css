@@ -530,7 +530,7 @@ a {
         /* Optional, maintains aspect ratio */
         border-radius: inherit;
         display: block;
-        margin-bottom: 100px;
+        margin-bottom: 00px;
     }
 
 }
